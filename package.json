@@ -1,0 +1,13 @@
+{
+  "name": "Bot_TS1",
+  "version": "0.1.0",
+  "description": "Bot pour la TS1",
+  "main": "main.js",
+  "repository": "https://github.com/Shimakuroo/bot-TS1.git",
+  "author": "Shimakuroo <mineminou122@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "dotenv": "^16.4.5"
+  }
+}
